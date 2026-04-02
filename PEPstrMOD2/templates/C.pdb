@@ -1,0 +1,18 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-06-27T20:48:58Z
+ATOM      1  N   CYS A   1       7.275  -0.781   1.523  1.00 20.00           N1+
+ATOM      2  CA  CYS A   1       7.164  -0.314   0.149  1.00 20.00           C  
+ATOM      3  C   CYS A   1       7.353   1.200   0.015  1.00 20.00           C  
+ATOM      4  O   CYS A   1       7.569   1.843   1.041  1.00 20.00           O  
+ATOM      5  CB  CYS A   1       5.756  -0.686  -0.369  1.00 20.00           C  
+ATOM      6  SG  CYS A   1       5.576  -0.111  -2.080  1.00 20.00           S  
+ATOM      7  OXT CYS A   1       7.278   1.689  -1.111  1.00 20.00           O  
+ATOM      8  HA  CYS A   1       7.912  -0.821  -0.461  1.00 20.00           H  
+ATOM      9  HB1 CYS A   1       5.629  -1.768  -0.333  1.00 20.00           H  
+ATOM     10  HB2 CYS A   1       5.000  -0.211   0.256  1.00 20.00           H  
+ATOM     11  HG  CYS A   1       5.733   1.219  -2.123  1.00 20.00           H  
+ATOM     12  HT1 CYS A   1       7.135  -1.841   1.552  1.00 20.00           H  
+ATOM     13  HT2 CYS A   1       6.528  -0.306   2.123  1.00 20.00           H  
+ATOM     14  HT3 CYS A   1       8.245  -0.540   1.905  1.00 20.00           H  
+TER      15      CYS A   1 
+END

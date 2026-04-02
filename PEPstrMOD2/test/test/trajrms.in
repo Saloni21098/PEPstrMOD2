@@ -1,0 +1,5 @@
+parm test.prmtop
+trajin test-md.crd
+reference lowestene.pdb
+rms reference out test_rmsd.dat @N,CA,C time 1.0
+run

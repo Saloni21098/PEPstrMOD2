@@ -1,0 +1,53 @@
+Remark line goes here
+MASS
+N  14.010        0.530               same as n  
+CT 12.010        0.878               same as c3 
+H1 1.008         0.135               same as h1 
+C  12.010        0.616               same as c  
+O  16.000        0.434               same as o  
+SH 32.060        2.900               same as sh 
+HS 1.008         0.135               same as hs 
+
+BOND
+CT-N   328.70   1.462       same as c3- n, penalty score=  0.0
+CT-H1  330.60   1.097       same as c3-h1, penalty score=  0.0
+C -CT  313.00   1.524       same as  c-c3, penalty score=  0.0
+C -O   637.70   1.218       same as  c- o, penalty score=  0.0
+C -SH  239.70   1.797       same as  c-sh, penalty score=  0.0
+HS-SH  291.90   1.347       same as hs-sh, penalty score=  0.0
+
+ANGLE
+H1-CT-N    49.800     108.880   same as h1-c3-n , penalty score=  0.0
+C -CT-N    67.000     109.060   same as c -c3-n , penalty score=  0.0
+CT-C -O    67.400     123.200   same as c3-c -o , penalty score=  0.0
+CT-C -SH   61.800     112.650   same as c3-c -sh, penalty score=  0.0
+H1-CT-H1   39.200     108.460   same as h1-c3-h1, penalty score=  0.0
+C -CT-H1   47.000     108.220   same as c -c3-h1, penalty score=  0.0
+C -SH-HS   45.900      94.470   same as c -sh-hs, penalty score=  0.0
+O -C -SH   63.500     122.050   same as o -c -sh, penalty score=  0.0
+
+DIHE
+O -C -CT-N    6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+SH-C -CT-N    6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+CT-C -SH-HS   1    2.250       180.000          -2.000      same as c3-c -sh-hs
+CT-C -SH-HS   1    1.300       180.000           1.000      same as c3-c -sh-hs, penalty score=  0.0
+O -C -CT-H1   1    0.800         0.000          -1.000      same as h1-c3-c -o 
+O -C -CT-H1   1    0.000         0.000          -2.000      same as h1-c3-c -o 
+O -C -CT-H1   1    0.080       180.000           3.000      same as h1-c3-c -o , penalty score=  0.0
+SH-C -CT-H1   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+O -C -SH-HS   2    4.500       180.000           2.000      same as X -c -sh-X , penalty score=  0.0
+
+IMPROPER
+CT-O -C -SH         1.1          180.0         2.0          Using the default value
+
+NONBON
+  N           1.8240  0.1700             same as n  
+  CT          1.9080  0.1094             same as c3 
+  H1          1.3870  0.0157             same as h1 
+  C           1.9080  0.0860             same as c  
+  O           1.6612  0.2100             same as o  
+  SH          2.0000  0.2500             same as sh 
+  HS          0.6000  0.0157             same as hs 
+
+
+

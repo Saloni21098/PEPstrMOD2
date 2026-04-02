@@ -1,0 +1,14 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-06-27T20:50:12Z
+ATOM      1  N   GLY A   1       6.100  -0.781   0.940  1.00 20.00           N1+
+ATOM      2  CA  GLY A   1       5.989  -0.314  -0.435  1.00 20.00           C  
+ATOM      3  C   GLY A   1       6.178   1.200  -0.568  1.00 20.00           C  
+ATOM      4  O   GLY A   1       6.394   1.843   0.458  1.00 20.00           O  
+ATOM      5  OXT GLY A   1       6.103   1.689  -1.695  1.00 20.00           O  
+ATOM      6  HA1 GLY A   1       6.750  -0.813  -1.034  1.00 20.00           H  
+ATOM      7  HA2 GLY A   1       5.000  -0.575  -0.811  1.00 20.00           H  
+ATOM      8  HT1 GLY A   1       5.960  -1.841   0.969  1.00 20.00           H  
+ATOM      9  HT2 GLY A   1       5.352  -0.306   1.540  1.00 20.00           H  
+ATOM     10  HT3 GLY A   1       7.070  -0.540   1.322  1.00 20.00           H  
+TER      11      GLY A   1 
+END

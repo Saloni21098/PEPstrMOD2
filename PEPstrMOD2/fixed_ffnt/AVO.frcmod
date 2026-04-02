@@ -1,0 +1,128 @@
+Remark line goes here
+MASS
+N3 14.010        0.530               same as n4 
+CT 12.010        0.878               same as c3 
+HP 1.008         0.135               same as hp 
+HC 1.008         0.135               same as hc 
+CC 12.010        0.360               same as cc 
+CW 12.010        0.360               same as cc 
+NA 14.010        0.530               same as na 
+CR 12.010        0.360               same as cc 
+H  1.008         0.161               same as hn 
+H5 1.008         0.135               same as h5 
+H4 1.008         0.135               same as h4 
+C  12.010        0.616               same as c  
+O  16.000        0.434               same as o  
+
+BOND
+CT-N3  283.30   1.511       same as c3-n4, penalty score=  0.0
+CT-CT  300.90   1.538       same as c3-c3, penalty score=  0.0
+CT-HP  330.60   1.097       same as c3-hc, penalty score= 25.0
+CT-HC  330.60   1.097       same as c3-hc, penalty score=  0.0
+C -CT  313.00   1.524       same as  c-c3, penalty score=  0.0
+CC-CT  334.80   1.502       same as c3-cc, penalty score=  0.0
+CC-CW  419.80   1.428       same as cc-cc, penalty score=  0.0
+CC-NA  425.80   1.380       same as cc-na, penalty score=  0.0
+CW-NA  425.80   1.380       same as cc-na, penalty score=  0.0
+CW-H4  352.00   1.082       same as cc-h4, penalty score=  0.0
+CR-NA  425.80   1.380       same as cc-na, penalty score=  0.0
+H -NA  408.40   1.010       same as hn-na, penalty score=  0.0
+CR-H5  351.70   1.082       same as cc-h5, penalty score=  0.0
+C -O   637.70   1.218       same as  c- o, penalty score=  0.0
+
+ANGLE
+CT-CT-N3   64.200     114.210   same as c3-c3-n4, penalty score=  0.0
+HP-CT-N3   48.600     107.900   same as hc-c3-n4, penalty score=  9.5
+C -CT-N3   65.500     110.730   same as c -c3-n4, penalty score=  0.0
+CT-N3-CT   62.600     109.660   same as c3-n4-c3, penalty score=  0.0
+CT-CT-CT   62.900     111.510   same as c3-c3-c3, penalty score=  0.0
+CT-CT-HC   46.300     109.800   same as c3-c3-hc, penalty score=  0.0
+CT-CT-HP   46.300     109.800   same as c3-c3-hc, penalty score=  9.5
+HP-CT-HP   39.400     107.580   same as hc-c3-hc, penalty score= 19.0
+HC-CT-HC   39.400     107.580   same as hc-c3-hc, penalty score=  0.0
+CC-CT-CT   63.500     111.930   same as c3-c3-cc, penalty score=  0.0
+CT-C -O    67.400     123.200   same as c3-c -o , penalty score=  0.0
+C -CT-CT   63.300     111.040   same as c -c3-c3, penalty score=  0.0
+CT-CC-CW   64.600     115.970   same as c3-cc-cc, penalty score=  0.0
+CT-CC-NA   65.300     122.730   same as c3-cc-na, penalty score=  0.0
+CC-CT-HC   47.200     110.490   same as cc-c3-hc, penalty score=  0.0
+CC-CW-NA   68.600     117.770   same as cc-cc-na, penalty score=  0.0
+CC-CW-H4   45.900     127.960   same as cc-cc-h4, penalty score=  0.0
+CC-NA-CR   68.500     109.900   same as cc-na-cc, penalty score=  0.0
+CC-NA-H    46.800     125.500   same as cc-na-hn, penalty score=  0.0
+CW-CC-NA   68.600     117.770   same as cc-cc-na, penalty score=  0.0
+CR-NA-CW   68.500     109.900   same as cc-na-cc, penalty score=  0.0
+CW-NA-H    46.800     125.500   same as cc-na-hn, penalty score=  0.0
+H4-CW-NA   49.800     120.530   same as h4-cc-na, penalty score=  0.0
+NA-CR-NA   75.200     106.600   same as na-cc-na, penalty score=  0.0
+H5-CR-NA   49.600     121.550   same as h5-cc-na, penalty score=  0.0
+CR-NA-H    46.800     125.500   same as cc-na-hn, penalty score=  0.0
+C -CT-HP   46.900     108.770   same as c -c3-hc, penalty score=  9.5
+
+DIHE
+CT-CT-CT-N3   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+HC-CT-CT-N3   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+CC-CT-CT-N3   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+O -C -CT-N3   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+CT-CT-N3-CT   9    1.400         0.000           3.000      same as c3-c3-n4-c3, penalty score=  0.0
+HP-CT-N3-CT   9    1.400         0.000           3.000      same as X -c3-n4-X , penalty score=  0.0
+C -CT-N3-CT   9    1.400         0.000           3.000      same as X -c3-n4-X , penalty score=  0.0
+CT-CT-CT-CT   1    0.180         0.000          -3.000      same as c3-c3-c3-c3
+CT-CT-CT-CT   1    0.250       180.000          -2.000      same as c3-c3-c3-c3
+CT-CT-CT-CT   1    0.200       180.000           1.000      same as c3-c3-c3-c3, penalty score=  0.0
+CT-CT-CT-HC   1    0.160         0.000           3.000      same as hc-c3-c3-c3, penalty score=  0.0
+CT-CT-CT-HP   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+HC-CT-CT-HP   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+HC-CT-CT-HC   1    0.150         0.000           3.000      same as hc-c3-c3-hc, penalty score=  0.0
+CW-CC-CT-CT   6    0.000         0.000           3.000      same as X -c3-cd-X , penalty score=  0.0
+NA-CC-CT-CT   6    0.000         0.000           3.000      same as X -c3-cd-X , penalty score=  0.0
+O -C -CT-CT   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+CT-CC-CW-NA   4   16.000       180.000           2.000      same as X -cd-cd-X , penalty score=  0.0
+CT-CC-CW-H4   4   16.000       180.000           2.000      same as X -cd-cd-X , penalty score=  0.0
+CT-CC-NA-CR   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CT-CC-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CC-CW-NA-CR   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CC-CW-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CW-CC-NA-CR   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CW-CC-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+NA-CR-NA-CW   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+H5-CR-NA-CW   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+NA-CR-NA-CC   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+NA-CR-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+NA-CC-CW-NA   4   16.000       180.000           2.000      same as X -cd-cd-X , penalty score=  0.0
+NA-CC-CW-H4   4   16.000       180.000           2.000      same as X -cd-cd-X , penalty score=  0.0
+H5-CR-NA-CC   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+H5-CR-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+H4-CW-NA-CR   4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+H4-CW-NA-H    4    6.800       180.000           2.000      same as X -cd-na-X , penalty score=  0.0
+CW-CC-CT-HC   6    0.000         0.000           3.000      same as X -c3-cd-X , penalty score=  0.0
+NA-CC-CT-HC   6    0.000         0.000           3.000      same as X -c3-cd-X , penalty score=  0.0
+CC-CT-CT-HP   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+O -C -CT-HP   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+C -CT-CT-CC   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+C -CT-CT-HC   9    1.400         0.000           3.000      same as X -c3-c3-X , penalty score=  0.0
+
+IMPROPER
+CT-CW-CC-NA         1.1          180.0         2.0          Using the default value
+CC-H4-CW-NA         1.1          180.0         2.0          Using the default value
+CR-CW-NA-H          1.1          180.0         2.0          Using the default value
+H5-NA-CR-NA         1.1          180.0         2.0          Using the default value
+CC-CR-NA-H          1.1          180.0         2.0          Using the default value
+
+NONBON
+  N3          1.8240  0.1700             same as n4 
+  CT          1.9080  0.1094             same as c3 
+  HP          0.6000  0.0157             same as hp 
+  HC          1.4870  0.0157             same as hc 
+  CC          1.9080  0.0860             same as cc 
+  CW          1.9080  0.0860             same as cc 
+  NA          1.8240  0.1700             same as na 
+  CR          1.9080  0.0860             same as cc 
+  H           0.6000  0.0157             same as hn 
+  H5          1.3590  0.0150             same as h5 
+  H4          1.4090  0.0150             same as h4 
+  C           1.9080  0.0860             same as c  
+  O           1.6612  0.2100             same as o  
+
+
+

@@ -1,0 +1,58 @@
+Remark line goes here
+MASS
+NT 14.010        0.530               same as n3 
+CT 12.010        0.878               same as c3 
+H1 1.008         0.135               same as h1 
+S  32.060        2.900               same as ss 
+H2 1.008         0.135               same as h2 
+C  12.010        0.616               same as c  
+O  16.000        0.434               same as o  
+
+BOND
+CT-NT  325.90   1.465       same as c3-n3, penalty score=  0.0
+CT-H1  330.60   1.097       same as c3-h1, penalty score=  0.0
+CT-S   215.90   1.839       same as c3-ss, penalty score=  0.0
+CT-H2  331.70   1.096       same as c3-h2, penalty score=  0.0
+C -CT  313.00   1.524       same as  c-c3, penalty score=  0.0
+C -O   637.70   1.218       same as  c- o, penalty score=  0.0
+
+ANGLE
+H1-CT-NT   49.500     109.880   same as h1-c3-n3, penalty score=  0.0
+NT-CT-S    64.400     107.380   same as n3-c3-ss, penalty score=  0.0
+H2-CT-NT   49.600     109.350   same as h2-c3-n3, penalty score=  0.0
+C -CT-NT   66.300     111.140   same as c -c3-n3, penalty score=  0.0
+CT-NT-CT   63.800     112.350   same as c3-n3-c3, penalty score=  0.0
+H1-CT-H1   39.200     108.460   same as h1-c3-h1, penalty score=  0.0
+CT-S -CT   60.200      99.240   same as c3-ss-c3, penalty score=  0.0
+CT-C -O    67.400     123.200   same as c3-c -o , penalty score=  0.0
+H2-CT-S    42.100     108.330   same as h2-c3-ss, penalty score=  0.0
+C -CT-S    61.900     108.840   same as c -c3-ss, penalty score=  0.0
+H1-CT-S    42.100     108.760   same as h1-c3-ss, penalty score=  0.0
+C -CT-H2   46.700     109.690   same as c -c3-h2, penalty score=  0.0
+
+DIHE
+NT-CT-S -CT   3    1.000         0.000           3.000      same as X -c3-ss-X , penalty score=  0.0
+O -C -CT-NT   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+S -CT-NT-CT   6    1.800         0.000           3.000      same as X -c3-n3-X , penalty score=  0.0
+H2-CT-NT-CT   6    1.800         0.000           3.000      same as X -c3-n3-X , penalty score=  0.0
+C -CT-NT-CT   6    1.800         0.000           3.000      same as X -c3-n3-X , penalty score=  0.0
+H1-CT-NT-CT   6    1.800         0.000           3.000      same as X -c3-n3-X , penalty score=  0.0
+H1-CT-S -CT   3    1.000         0.000           3.000      same as X -c3-ss-X , penalty score=  0.0
+O -C -CT-S    6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+H2-CT-S -CT   3    1.000         0.000           3.000      same as X -c3-ss-X , penalty score=  0.0
+O -C -CT-H2   6    0.000       180.000           2.000      same as X -c -c3-X , penalty score=  0.0
+C -CT-S -CT   3    1.000         0.000           3.000      same as X -c3-ss-X , penalty score=  0.0
+
+IMPROPER
+
+NONBON
+  NT          1.8240  0.1700             same as n3 
+  CT          1.9080  0.1094             same as c3 
+  H1          1.3870  0.0157             same as h1 
+  S           2.0000  0.2500             same as ss 
+  H2          1.2870  0.0157             same as h2 
+  C           1.9080  0.0860             same as c  
+  O           1.6612  0.2100             same as o  
+
+
+

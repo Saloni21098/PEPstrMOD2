@@ -1,0 +1,18 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-06-27T20:52:55Z
+ATOM      1  N   SER A   1       7.470  -0.781   1.131  1.00 20.00           N1+
+ATOM      2  CA  SER A   1       7.359  -0.314  -0.244  1.00 20.00           C  
+ATOM      3  C   SER A   1       7.548   1.200  -0.377  1.00 20.00           C  
+ATOM      4  O   SER A   1       7.764   1.843   0.649  1.00 20.00           O  
+ATOM      5  CB  SER A   1       5.940  -0.732  -0.693  1.00 20.00           C  
+ATOM      6  OG  SER A   1       5.000  -0.071   0.140  1.00 20.00           O  
+ATOM      7  OXT SER A   1       7.473   1.689  -1.504  1.00 20.00           O  
+ATOM      8  HA  SER A   1       8.098  -0.826  -0.860  1.00 20.00           H  
+ATOM      9  HB1 SER A   1       5.781  -0.441  -1.731  1.00 20.00           H  
+ATOM     10  HB2 SER A   1       5.826  -1.811  -0.595  1.00 20.00           H  
+ATOM     11  HG  SER A   1       5.159  -0.352   1.140  1.00 20.00           H  
+ATOM     12  HT1 SER A   1       7.330  -1.841   1.160  1.00 20.00           H  
+ATOM     13  HT2 SER A   1       6.723  -0.306   1.731  1.00 20.00           H  
+ATOM     14  HT3 SER A   1       8.440  -0.540   1.513  1.00 20.00           H  
+TER      15      SER A   1 
+END

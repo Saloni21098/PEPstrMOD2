@@ -1,0 +1,17 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-06-27T20:05:54Z
+ATOM      1  N   ALA A   1       7.273  -0.781   1.149  1.00 20.00           N1+
+ATOM      2  CA  ALA A   1       7.162  -0.314  -0.225  1.00 20.00           C  
+ATOM      3  C   ALA A   1       7.351   1.200  -0.359  1.00 20.00           C  
+ATOM      4  O   ALA A   1       7.567   1.843   0.667  1.00 20.00           O  
+ATOM      5  CB  ALA A   1       5.746  -0.689  -0.719  1.00 20.00           C  
+ATOM      6  OXT ALA A   1       7.276   1.689  -1.485  1.00 20.00           O  
+ATOM      7  HA  ALA A   1       7.904  -0.824  -0.840  1.00 20.00           H  
+ATOM      8  HB1 ALA A   1       5.619  -0.356  -1.749  1.00 20.00           H  
+ATOM      9  HB2 ALA A   1       5.000  -0.206  -0.088  1.00 20.00           H  
+ATOM     10  HB3 ALA A   1       5.618  -1.770  -0.669  1.00 20.00           H  
+ATOM     11  HT1 ALA A   1       7.133  -1.841   1.178  1.00 20.00           H  
+ATOM     12  HT2 ALA A   1       6.525  -0.306   1.749  1.00 20.00           H  
+ATOM     13  HT3 ALA A   1       8.243  -0.540   1.531  1.00 20.00           H  
+TER      14      ALA A   1 
+END

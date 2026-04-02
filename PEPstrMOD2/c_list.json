@@ -1,0 +1,1012 @@
+[
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "N-methyl-L-alaninamide",
+    "Actual PDB code": "0NC",
+    "Three letter code": "0NC",
+    "MAP notation": "{ct:0NC}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "L-alaninamide",
+    "Actual PDB code": "66N",
+    "Three letter code": "66N",
+    "MAP notation": "{ct:66N}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "(3R)-3-[(2S)-2-amino-3-oxopropyl]piperidine-1-carboximidamide",
+    "Actual PDB code": "1PI",
+    "Three letter code": "1PI",
+    "MAP notation": "{ct:1PI}",
+    "Type": "Aldehyde (Piperidine) R_chiral",
+    "User Code": "alde1",
+    "User Input": "{ct:alde1}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "(3S)-3-[(2S)-2-amino-3-oxopropyl]piperidine-1-carboximidamide",
+    "Actual PDB code": "3GA",
+    "Three letter code": "3GA",
+    "MAP notation": "{ct:3GA}",
+    "Type": "Aldehyde (Piperidine) S_chiral",
+    "User Code": "alde9",
+    "User Input": "{ct:alde9}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "(2~{S})-2-azanylpropanal",
+    "Actual PDB code": "5XU",
+    "Three letter code": "5XU",
+    "MAP notation": "{ct:5XU}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "1-METHYL-ALANINAL",
+    "Actual PDB code": "ALM",
+    "Three letter code": "ALM",
+    "MAP notation": "{ct:ALM}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "THIOALANINE",
+    "Actual PDB code": "ALT",
+    "Three letter code": "ALT",
+    "MAP notation": "{ct:ALT}",
+    "Type": "Thionation",
+    "User Code": "thion",
+    "User Input": "{ct:thion}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "NAM NAPTHYLAMINOALANINE",
+    "Actual PDB code": "NAM",
+    "Three letter code": "NAM",
+    "MAP notation": "{ct:NAM}",
+    "Type": "Amidation (Naphthalene)",
+    "User Code": "amid1",
+    "User Input": "{ct:amid1}"
+  },
+  {
+    "Natural Amino Acid": "Alanine/Ala/A",
+    "Modifications": "(2S)-2-amino-N-butyl-propanamide",
+    "Actual PDB code": "UM2",
+    "Three letter code": "UM2",
+    "MAP notation": "{ct:UM2}",
+    "Type": "Amidation (butyl)",
+    "User Code": "amid5",
+    "User Input": "{ct:amid5}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "amino({(4S)-4-amino-6-[(2,6-dimethylbenzoyl)oxy]-5-oxohexyl}amino)methaniminium",
+    "Actual PDB code": "4AR",
+    "Three letter code": "4AR",
+    "MAP notation": "{ct:4AR}",
+    "Type": "Arylation (Dimethylbenzoyl)",
+    "User Code": "aryl1",
+    "User Input": "{ct:aryl1}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "ARGININEAMIDE",
+    "Actual PDB code": "AAR",
+    "Three letter code": "AAR",
+    "MAP notation": "{ct:AAR}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "N-methyll-argininamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "R02",
+    "MAP notation": "{ct:R02}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "DEOXY-CHLOROMETHYL-ARGININE",
+    "Actual PDB code": "ACL",
+    "Three letter code": "ACL",
+    "MAP notation": "{ct:ACL}",
+    "Type": "Chloromethylation",
+    "User Code": "Meth4",
+    "User Input": "{ct:Meth4}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "ARGINYL-BENZOTHIAZOLE-6-CARBOXYLIC ACID",
+    "Actual PDB code": "AR2",
+    "Three letter code": "AR2",
+    "MAP notation": "{ct:AR2}",
+    "Type": "Arylation (Arginyl-benzothiazole)",
+    "User Code": "aryl2",
+    "User Input": "{ct:aryl2}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "DEOXY-METHYL-ARGININE",
+    "Actual PDB code": "ARM",
+    "Three letter code": "ARM",
+    "MAP notation": "{ct:ARM}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "DEOXO-METHYLARGININE",
+    "Actual PDB code": "MAI",
+    "Three letter code": "MAI",
+    "MAP notation": "{ct:MAI}",
+    "Type": "Deoxomethyl",
+    "User Code": "meth2",
+    "User Input": "{ct:meth2}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "ARGINAL",
+    "Actual PDB code": "RGL",
+    "Three letter code": "RGL",
+    "MAP notation": "{ct:RGL}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Arginine/Arg/R",
+    "Modifications": "1-[(4S)-4-amino-5-(1,3-benzothiazol-2-yl)-5-oxopentyl]guanidine",
+    "Actual PDB code": "THZ",
+    "Three letter code": "THZ",
+    "MAP notation": "{ct:THZ}",
+    "Type": "Arylation (Beznothiazole)",
+    "User Code": "aryl3",
+    "User Input": "{ct:aryl3}"
+  },
+  {
+    "Natural Amino Acid": "Asparagine/Asn/N",
+    "Modifications": "(3S)-3-amino-4,4,4-trihydroxybutanamide",
+    "Actual PDB code": "CE7",
+    "Three letter code": "CE7",
+    "MAP notation": "{ct:CE7}",
+    "Type": "Alcohol (diol)",
+    "User Code": "Alc1",
+    "User Input": "{ct:Alc1}"
+  },
+  {
+    "Natural Amino Acid": "Asparagine/Asn/N",
+    "Modifications": "ASPARAGINEAMIDE",
+    "Actual PDB code": NaN,
+    "Three letter code": "N05",
+    "MAP notation": "{ct:N05}",
+    "Type": "Amidatrion",
+    "User Code": "amid",
+    "User Input": "{ct:Amid}"
+  },
+  {
+    "Natural Amino Acid": "Asparagine/Asn/N",
+    "Modifications": "N-methyl asparaginamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "N04",
+    "MAP notation": "{ct:N04}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:NMe}"
+  },
+  {
+    "Natural Amino Acid": "Asparagine/Asn/N",
+    "Modifications": "L-3-AMINOSUCCINIMIDE",
+    "Actual PDB code": "SNN",
+    "Three letter code": "SNN",
+    "MAP notation": "{ct:SNN}",
+    "Type": "Amidation (Succinimide)",
+    "User Code": "amid2",
+    "User Input": "{ct:amid2}"
+  },
+  {
+    "Natural Amino Acid": "Asparagine/Asn/N",
+    "Modifications": "L-alpha-asparagine",
+    "Actual PDB code": "XSN",
+    "Three letter code": "XSN",
+    "MAP notation": "{ct:XSN}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "(3S)-3-azanyl-4-oxidanylidene-4-pyrrolidin-1-yl-butanoic acid",
+    "Actual PDB code": "7TK",
+    "Three letter code": "7TK",
+    "MAP notation": "{ct:7TK}",
+    "Type": "Arylation (Pyrrolidine)",
+    "User Code": "aryl4",
+    "User Input": "{ct:aryl4}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "3-AMINO-5-CHLORO-4-OXOPENTANOIC ACID",
+    "Actual PDB code": "AKL",
+    "Three letter code": "AKL",
+    "MAP notation": "{ct:AKL}",
+    "Type": "Chloromethylation",
+    "User Code": "Meth4",
+    "User Input": "{ct:Meth4}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "ASPARTIC ALDEHYDE",
+    "Actual PDB code": "ASA",
+    "Three letter code": "ASA",
+    "MAP notation": "{ct:ASA}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "DEHYDROXYMETHYLASPARTIC ACID",
+    "Actual PDB code": "ASK",
+    "Three letter code": "ASK",
+    "MAP notation": "{ct:ASK}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "(3R)-3-hydroxy-L-alpha-asparagine",
+    "Actual PDB code": "LAA",
+    "Three letter code": "LAA",
+    "MAP notation": "{ct:LAA}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Aspartic acid/Asp/D",
+    "Modifications": "N-methyl aspartateamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "D01",
+    "MAP notation": "{ct:D01}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "(2-AMINO-2-CARBAMOYL-ETHYLSULFANYL)-ACETIC ACID",
+    "Actual PDB code": "AEA",
+    "Three letter code": "AEA",
+    "MAP notation": "{ct:AEA}",
+    "Type": "Amidation (Ethyl sulfanyl)",
+    "User Code": "amid3",
+    "User Input": "{ct:amid3}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "S,S-PROPYLTHIOCYSTEINE",
+    "Actual PDB code": "PR3",
+    "Three letter code": "PR3",
+    "MAP notation": "{ct:PR3}",
+    "Type": "Aldehyde (thiopropyl)",
+    "User Code": "alde2",
+    "User Input": "{ct:alde2}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "3,4-dimethylcatechol cysteine",
+    "Actual PDB code": "QO8",
+    "Three letter code": "QO8",
+    "MAP notation": "{ct:QO8}",
+    "Type": "Alcohol (Catechol)",
+    "User Code": "Alc3",
+    "User Input": "{ct:Alc3}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "(2~{R})-2-azanyl-3-(5-iodanylpyrimidin-2-yl)sulfanyl-propanal",
+    "Actual PDB code": "UJR",
+    "Three letter code": "UJR",
+    "MAP notation": "{ct:UJR}",
+    "Type": "Aldehyde (iodanylpyrimidine)",
+    "User Code": "alde7",
+    "User Input": "{ct:alde7}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "N,N-dimethyl-L-cysteinamide",
+    "Actual PDB code": "A1BC0",
+    "Three letter code": "C04",
+    "MAP notation": "{ct:C04}",
+    "Type": "Amidation (Dimethyl)",
+    "User Code": "amid6",
+    "User Input": "{ct:amid6}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "Cysteineamide",
+    "Actual PDB code": "CY3",
+    "Three letter code": "CY3",
+    "MAP notation": "{ct:CY3}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Cysteine/Cys/C",
+    "Modifications": "N-methyl cysteinamide",
+    "Actual PDB code": "C05",
+    "Three letter code": "C05",
+    "MAP notation": "{ct:C05}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Glutamic acid/Glu/E",
+    "Modifications": "O5'-(L-GLUTAMYL-SULFAMOYL)-ADENOSINE",
+    "Actual PDB code": "GSU",
+    "Three letter code": "GSU",
+    "MAP notation": "{ct:GSU}",
+    "Type": "Sulfamoylation",
+    "User Code": "Sulf",
+    "User Input": "{ct:Sulf}"
+  },
+  {
+    "Natural Amino Acid": "Glutamic acid/Glu/E",
+    "Modifications": "Glutamateamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "E02",
+    "MAP notation": "{ct:E02}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Glutamic acid/Glu/E",
+    "Modifications": "N-methyl glutamateamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "E01",
+    "MAP notation": "{ct:E01}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Glutamine/Gln/Q",
+    "Modifications": "(4S)-4-amino-5-hydroxypentanamide",
+    "Actual PDB code": "ECC",
+    "Three letter code": "ECC",
+    "MAP notation": "{ct:ECC}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:Alc2}"
+  },
+  {
+    "Natural Amino Acid": "Glutamine/Gln/Q",
+    "Modifications": "L-2-Aminoglutarimide",
+    "Actual PDB code": "QCI",
+    "Three letter code": "QCI",
+    "MAP notation": "{ct:QCI}",
+    "Type": "Acylation (Lactone)",
+    "User Code": "Acyl",
+    "User Input": "{ct:Acyl}"
+  },
+  {
+    "Natural Amino Acid": "Glutamine/Gln/Q",
+    "Modifications": "ethyl (4~{S})-4,7-bis(azanyl)-7-oxidanylidene-heptanoate",
+    "Actual PDB code": "YTF",
+    "Three letter code": "YTF",
+    "MAP notation": "{ct:YTF}",
+    "Type": "Ketone (heptanoate)",
+    "User Code": "Keto",
+    "User Input": "{ct:Keto}"
+  },
+  {
+    "Natural Amino Acid": "Glutamine/Gln/Q",
+    "Modifications": "Glutamineamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "Q03",
+    "MAP notation": "{ct:Q03}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Glutamine/Gln/Q",
+    "Modifications": "N-methyl glutaminamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "Q02",
+    "MAP notation": "{ct:Q02}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Glycine/Gly/G",
+    "Modifications": "ethyl glycinate",
+    "Actual PDB code": "GEE",
+    "Three letter code": "GEE",
+    "MAP notation": "{ct:GEE}",
+    "Type": "Ethylation",
+    "User Code": "ethyl",
+    "User Input": "{ct:ethyl}"
+  },
+  {
+    "Natural Amino Acid": "Glycine/Gly/G",
+    "Modifications": "THIOGLYCIN",
+    "Actual PDB code": "GL3",
+    "Three letter code": "GL3",
+    "MAP notation": "{ct:GL3}",
+    "Type": "Thiolation",
+    "User Code": "thio",
+    "User Input": "{ct:thio}"
+  },
+  {
+    "Natural Amino Acid": "Glycine/Gly/G",
+    "Modifications": "AMINO-ACETALDEHYDE",
+    "Actual PDB code": "GLZ",
+    "Three letter code": "GLZ",
+    "MAP notation": "{ct:GLZ}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Glycine/Gly/G",
+    "Modifications": "Glycineamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "G01",
+    "MAP notation": "{ct:G01}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Glycine/Gly/G",
+    "Modifications": "N-methyl glycinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "G02",
+    "MAP notation": "{ct:G02}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "N-(2-NAPHTHYL)HISTIDINAMIDE",
+    "Actual PDB code": "HBN",
+    "Three letter code": "HBN",
+    "MAP notation": "{ct:HBN}",
+    "Type": "Arylation (Napthyl)",
+    "User Code": "aryl6",
+    "User Input": "{ct:aryl6}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "L-HISTIDINE AMIDE",
+    "Actual PDB code": "HIA",
+    "Three letter code": "HIA",
+    "MAP notation": "{ct:HIA}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "N-methyl histidinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "H07",
+    "MAP notation": "{ct:H07}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "L-histidinol",
+    "Actual PDB code": "HSO",
+    "Three letter code": "HSO",
+    "MAP notation": "{ct:HSO}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:Alc2}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "L-histidinal",
+    "Actual PDB code": "HSV",
+    "Three letter code": "HSV",
+    "MAP notation": "{ct:HSV}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Histidine/His/H",
+    "Modifications": "(2S)-2-AMINO-3-[1-(1H-TETRAAZOL-5-YL)-1H-IMIDAZOL-4-YL]PROPANAL",
+    "Actual PDB code": "NZH",
+    "Three letter code": "NZH",
+    "MAP notation": "{ct:NZH}",
+    "Type": "Aldehyde (tetrazolyl)",
+    "User Code": "alde3",
+    "User Input": "{ct:alde3}"
+  },
+  {
+    "Natural Amino Acid": "Isoleucine/Ile/I",
+    "Modifications": "Isoleucine Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "I03",
+    "MAP notation": "{ct:I03}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Isoleucine/Ile/I",
+    "Modifications": "N-methyl isoleucinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "I02",
+    "MAP notation": "{ct:I02}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Leucine/Leu/L",
+    "Modifications": "Leucine Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "L02",
+    "MAP notation": "{ct:L02}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Leucine/Leu/L",
+    "Modifications": "N-methyl leucinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "L01",
+    "MAP notation": "{ct:L01}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Lysine/Lys/K",
+    "Modifications": "N~6~-acetyl-N-(4-methyl-2-oxo-2H-chromen-7-yl)-L-lysinamide",
+    "Actual PDB code": "FDL",
+    "Three letter code": "FDL",
+    "MAP notation": "{ct:FDL}",
+    "Type": "Amidation (Complex)",
+    "User Code": "amid4",
+    "User Input": "{ct:amid4}"
+  },
+  {
+    "Natural Amino Acid": "Lysine/Lys/K",
+    "Modifications": "DEOXY-METHYL-LYSINE",
+    "Actual PDB code": "LYM",
+    "Three letter code": "LYM",
+    "MAP notation": "{ct:LYM}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Lysine/Lys/K",
+    "Modifications": "(2~{S},4~{R},5~{E})-5-[(5~{S})-5-azanyl-6-oxidanyl-hexyl]iminohexane-1,2,4-triol",
+    "Actual PDB code": "I2F",
+    "Three letter code": "I2F",
+    "MAP notation": "{nnr:I2F}",
+    "Type": "Aldehyde (complex)",
+    "User Code": "alde4",
+    "User Input": "{ct:alde4}"
+  },
+  {
+    "Natural Amino Acid": "Lysine/Lys/K",
+    "Modifications": "2,6-DIAMINO-HEXANOIC ACID AMIDE",
+    "Actual PDB code": "LYN",
+    "Three letter code": "LYN",
+    "MAP notation": "{ct:LYN}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Lysine/Lys/K",
+    "Modifications": "N-methyl lysinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "K10",
+    "MAP notation": "{ct:LYN}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Methionine/Met/M",
+    "Modifications": "Methionine Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "M02",
+    "MAP notation": "{ct:LYN}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Methionine/Met/M",
+    "Modifications": "N-methyl methioninamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "M01",
+    "MAP notation": "{ct:LYN}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "3-AMINO-4-PHENYL-BUTAN-2-ONE",
+    "Actual PDB code": "HPC",
+    "Three letter code": "HPC",
+    "MAP notation": "{ct:HPC}",
+    "Type": "Carboxymethyl",
+    "User Code": "meth1",
+    "User Input": "{ct:meth1}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "HOMOPHENYLALANINYLMETHANE",
+    "Actual PDB code": "HPQ",
+    "Three letter code": "HPQ",
+    "MAP notation": "{ct:HPQ}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "PHENYLALANINE AMIDE",
+    "Actual PDB code": "NFA",
+    "Three letter code": "NFA",
+    "MAP notation": "{ct:NFA}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "N-methyl phenylalaninamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "F06",
+    "MAP notation": "{ct:F06}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "PHENYLALANYLMETHYLCHLORIDE",
+    "Actual PDB code": "PCS",
+    "Three letter code": "PCS",
+    "MAP notation": "{ct:PCS}",
+    "Type": "Chloromethylation",
+    "User Code": "Meth4",
+    "User Input": "{ct:Meth4}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "PHENYLALANINAL",
+    "Actual PDB code": "PHA",
+    "Three letter code": "PHA",
+    "MAP notation": "{ct:PHA}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Phenylalanine/Phe/F",
+    "Modifications": "L-PHENYLALANINOL",
+    "Actual PDB code": "PHL",
+    "Three letter code": "PHL",
+    "MAP notation": "{ct:PHL}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:Alc2}"
+  },
+  {
+    "Natural Amino Acid": "Proline/Pro/P",
+    "Modifications": "Proline Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "P04",
+    "MAP notation": "{ct:PHL}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Proline/Pro/P",
+    "Modifications": "N-methyl prolinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "P03",
+    "MAP notation": "{ct:PHL}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "(2S)-2-amino-3-oxopropyl hexanoate",
+    "Actual PDB code": "2JG",
+    "Three letter code": "2JG",
+    "MAP notation": "{ct:2JG}",
+    "Type": "Aldehyde (hexanoate)",
+    "User Code": "alde8",
+    "User Input": "{ct:alde8}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "methyl L-serinate",
+    "Actual PDB code": "5R5",
+    "Three letter code": "5R5",
+    "MAP notation": "{ct:5R5}",
+    "Type": "Methylester",
+    "User Code": "meth3",
+    "User Input": "{ct:meth3}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "HOMOSERINE LACTONE",
+    "Actual PDB code": "HSL",
+    "Three letter code": "HSL",
+    "MAP notation": "{ct::HSL}",
+    "Type": "Acylation (Lactone)",
+    "User Code": "Acyl",
+    "User Input": "{ct:Acyl}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "(2~{S},3~{R})-2-[(2~{S},3~{R})-1-[(2~{R})-2-azanyl-3-oxidanylidene-propoxy]-3-oxidanyl-1-oxidanylidene-butan-2-yl]-4-[(3~{S},5~{S})-5-[(3-carboxyphenyl)carbamoyl]pyrrolidin-3-yl]sulfanyl-3-methyl-3,4-dihydro-2~{H}-pyrrole-5-carboxylic acid",
+    "Actual PDB code": "O2E",
+    "Three letter code": "O2E",
+    "MAP notation": "{ct:O2E}",
+    "Type": "Aldehyde (complex)",
+    "User Code": "alde5",
+    "User Input": "{ct:alde5}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "AMINOSERINE",
+    "Actual PDB code": "SET",
+    "Three letter code": "SET",
+    "MAP notation": "{ct:SET}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "N-methyl serinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "S06",
+    "MAP notation": "{ct:S06}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Serine/Ser/S",
+    "Modifications": "2-AMINO-1,3-PROPANEDIOL",
+    "Actual PDB code": "SEL",
+    "Three letter code": "SEL",
+    "MAP notation": "{ct:SEL}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:deox}"
+  },
+  {
+    "Natural Amino Acid": "Threonine/Thr/T",
+    "Modifications": "(2R,3S) 3-amino-4-mercapto-2-butanol",
+    "Actual PDB code": "B27",
+    "Three letter code": "B27",
+    "MAP notation": "{ct:B27}",
+    "Type": "Thiolation",
+    "User Code": "thio",
+    "User Input": "{ct:thio}"
+  },
+  {
+    "Natural Amino Acid": "Threonine/Thr/T",
+    "Modifications": "Threonine Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "T03",
+    "MAP notation": "{ct:T03}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Threonine/Thr/T",
+    "Modifications": "N-methyl threoninamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "T02",
+    "MAP notation": "{ct:T02}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Tryptophan/Trp/W",
+    "Modifications": "TRYPTOPHANOL",
+    "Actual PDB code": "TPL",
+    "Three letter code": "TPL",
+    "MAP notation": "{ct:TPL}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:Alc2}"
+  },
+  {
+    "Natural Amino Acid": "Tryptophan/Trp/W",
+    "Modifications": "TRW3-(2-AMINO-3-HYDROXY-PROPYL)-6-(N'-CYCLOHEXYL-HYDRAZINO)OCTAHYDRO-INDOL-7-OL",
+    "Actual PDB code": "TRW",
+    "Three letter code": "TRW",
+    "MAP notation": "{ct:TRW}",
+    "Type": "Aldehyde (complex)",
+    "User Code": "alde6",
+    "User Input": "{ct:alde6}"
+  },
+  {
+    "Natural Amino Acid": "Tryptophan/Trp/W",
+    "Modifications": "Tryptophan Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "W08",
+    "MAP notation": "{ct:W08}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Tryptophan/Trp/W",
+    "Modifications": "N-methyl tryptophan amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "W07",
+    "MAP notation": "{ct:W07}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "META’-DI-HYDROXY-PHENYLALANINE",
+    "Actual PDB code": "MDF",
+    "Three letter code": "MDF",
+    "MAP notation": "{ct:MDF}",
+    "Type": "Methylester",
+    "User Code": "meth3",
+    "User Input": "{ct:meth3}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "TYROSINAL",
+    "Actual PDB code": "TYB",
+    "Three letter code": "TYB",
+    "MAP notation": "{ct:TYB}",
+    "Type": "Aldehyde",
+    "User Code": "alde",
+    "User Input": "{ct:alde}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "L-TYROSINAMIDE",
+    "Actual PDB code": "TYC",
+    "Three letter code": "TYC",
+    "MAP notation": "{ct:TYC}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "N-methyl tyrosine amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "Y01",
+    "MAP notation": "{ct:Y01}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "(2~{S})-2-(2-azanylethanoyloxy)-3-(4-hydroxyphenyl)propanoic acid",
+    "Actual PDB code": "YTL",
+    "Three letter code": "YTL",
+    "MAP notation": "{ct:YTL}",
+    "Type": "Arylation (Complex)",
+    "User Code": "aryl5",
+    "User Input": "{ct:aryl5}"
+  },
+  {
+    "Natural Amino Acid": "Tyrosine/Tyr/Y",
+    "Modifications": "4-[(2S)-2-amino-3-hydroxypropyl]phenol",
+    "Actual PDB code": "TYE",
+    "Three letter code": "TYE",
+    "MAP notation": "{ct:TYE}",
+    "Type": "Alcohol (methanol)",
+    "User Code": "Alc2",
+    "User Input": "{ct:Alc2}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "methyl L-valinate",
+    "Actual PDB code": "0AA",
+    "Three letter code": "0AA",
+    "MAP notation": "{ct:0AA}",
+    "Type": "Methylester",
+    "User Code": "meth3",
+    "User Input": "{ct:meth3}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "(3S,4S)-3-amino-4-methyl-3,4-dihydro-2H-pyran-2-one",
+    "Actual PDB code": "0AB",
+    "Three letter code": "0AB",
+    "MAP notation": "{ct:0AB}",
+    "Type": "Acylation (Lactone)",
+    "User Code": "Acyl",
+    "User Input": "{ct:Acyl}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "2'-(L-VALYL)AMINO-2'-DEOXYADENOSINE",
+    "Actual PDB code": "2VA",
+    "Three letter code": "2VA",
+    "MAP notation": "{ct:2VA}",
+    "Type": "Arylation (DEOXYADENOSINE)",
+    "User Code": "aryl7",
+    "User Input": "{ct:aryl7}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "METHYLVALINE",
+    "Actual PDB code": "VAF",
+    "Three letter code": "VAF",
+    "MAP notation": "{ct:VAF}",
+    "Type": "Methylation",
+    "User Code": "meth",
+    "User Input": "{ct:meth}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "Valine Amide",
+    "Actual PDB code": NaN,
+    "Three letter code": "V04",
+    "MAP notation": "{ct:V04}",
+    "Type": "Amidation",
+    "User Code": "amid",
+    "User Input": "{ct:amid}"
+  },
+  {
+    "Natural Amino Acid": "Valine/Val/V",
+    "Modifications": "N-methyl valinamide",
+    "Actual PDB code": NaN,
+    "Three letter code": "V06",
+    "MAP notation": "{ct:V06}",
+    "Type": "N-methylamide",
+    "User Code": "nme",
+    "User Input": "{ct:nme}"
+  }
+]

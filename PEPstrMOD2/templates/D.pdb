@@ -1,0 +1,19 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-06-27T20:48:36Z
+ATOM      1  N   ASP A   1       8.138  -0.781   1.689  1.00 20.00           N1+
+ATOM      2  CA  ASP A   1       8.027  -0.314   0.315  1.00 20.00           C  
+ATOM      3  C   ASP A   1       8.216   1.200   0.181  1.00 20.00           C  
+ATOM      4  O   ASP A   1       8.432   1.843   1.207  1.00 20.00           O  
+ATOM      5  CB  ASP A   1       6.535  -0.726  -0.078  1.00 20.00           C  
+ATOM      6  CG  ASP A   1       6.094  -0.336  -1.487  1.00 20.00           C  
+ATOM      7  OD1 ASP A   1       5.000  -0.740  -1.914  1.00 20.00           O  
+ATOM      8  OD2 ASP A   1       6.865   0.500  -2.289  1.00 20.00           O  
+ATOM      9  OXT ASP A   1       8.140   1.689  -0.945  1.00 20.00           O  
+ATOM     10  HA  ASP A   1       8.741  -0.839  -0.320  1.00 20.00           H  
+ATOM     11  HB1 ASP A   1       6.451  -1.809   0.012  1.00 20.00           H  
+ATOM     12  HB2 ASP A   1       5.857  -0.248   0.629  1.00 20.00           H  
+ATOM     13  HT1 ASP A   1       7.997  -1.841   1.718  1.00 20.00           H  
+ATOM     14  HT2 ASP A   1       7.390  -0.306   2.289  1.00 20.00           H  
+ATOM     15  HT3 ASP A   1       9.108  -0.540   2.071  1.00 20.00           H  
+TER      16      ASP A   1 
+END

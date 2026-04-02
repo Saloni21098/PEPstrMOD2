@@ -1,0 +1,8 @@
+
+&cntrl
+        imin=0, irest=0, ntx=1,
+        ntb=0, ntc=2, ntf=2, cut=10.0,
+        igb=0, tempi=0, temp0=300, ntt=3, gamma_ln=2,
+        nstlim=50000,
+        dt=.001,ig=-1, ntpr=100, ntwx=100,
+&end

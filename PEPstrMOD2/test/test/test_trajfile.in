@@ -1,0 +1,3 @@
+parm test.prmtop
+trajin test-md.crd
+trajout lowestene.pdb pdb

@@ -117,8 +117,8 @@ conda activate AmberTools25
 ## ⚠️ Important Note
 - Due to the large size of ambertools25, pmemd24 and colabfold_params, the directories have been compressed and uploaded in the Release assets of teh repository.
 - Download the **zip files** from [Release Page](https://github.com/raghavagps/PEPstrMOD2/releases/tag/v2.0) 
-- **Extract the file** before using the code.
-- Place the Extracted files inside the PEPstrMOD2 directory.
+- **Extract the files** before using the code.
+- Place the extracted files inside the PEPstrMOD2 directory.
 
 ---
 
@@ -163,21 +163,62 @@ usage: python pepstrmod2.py [-h]
 
 ## 📂 Input & Output Files
 
-### ✅ **Input File Format**
-PEPstrMOD2 supports two formats:
+### ✅ Input File Format
 
-1. **Single MAP Sequence (quoted string):** 
-(Example: `"GA{d}CDEFGH"`)
-2. **Text or FASTA File Containing Multiple Sequences:** 
-(Example: 
-`>Seq1
+PEPstrMOD2 supports the following input formats:
+
+1. **Single MAP Sequence (quoted string)**
+
+```text id="d8p1kx"
+"GA{d}CDEFGH"
+```
+
+2. **Text or FASTA File Containing Multiple Sequences**
+
+```text id="t5r9vm"
+>Seq1
 GA{d}CDEFGH
->Seq2
-ACD{ptm:Beta}FGHIK`)
 
-### ✅ **Output File**
-- Final results are saved in **PDB Format** in the output folder.
-- If no output file is specified, results are stored in `output` folder.
+>Seq2
+ACD{ptm:Beta}FGHIK
+```
+
+Modified residues should be provided using MAP notation inside curly braces.
+
+### ✅ Output Files
+
+PEPstrMOD2 generates the following output files inside the specified output directory:
+
+* Predicted peptide structures in PDB format
+* Energy-minimized structures
+* Final simulated structures
+* Optional trajectory, clustering, and graph files (depending on selected arguments)
+
+Example output structure:
+
+```text id="1FEV_A"
+output/
+├── before_simulation.zip
+├── after_minimization.zip
+├── after_simulation.zip
+├── before_simulation/1FEV_A_tleap.pdb
+├── after_minimization/1FEV_A_min.pdb
+├── after_simulation//1FEV_A_final.pdb
+└── 1FEV_A/
+    ├── 1FEV_A_pred.pdb
+    ├── 1FEV_A_clean.pdb
+    ├── 1FEV_A_modified.pdb
+    ├── 1FEV_A_tleap.pdb
+    ....................
+    ....................    
+    └── 1FEV_A_final.pdb
+```
+
+If no output directory is specified, all results are stored in the default folder:
+
+```
+output/
+```
 
 ---
 

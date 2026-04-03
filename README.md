@@ -8,9 +8,6 @@ A computational framework for predicting and refining the **three-dimensional st
 **PEPstrMOD2** is developed to help researchers predict the structures of peptides containing both natural and non-natural amino acids. It integrates modern protein structure prediction methods such as ESMFold and AlphaFold2 with molecular dynamics refinement using AmberTools25 and pmemd24. It represents a significant enhancement over the original PEPstrMOD framework, addressing previous limitations in scalability and flexibility.
 
 
-🔗 Visit the Docker: [pepstrmod2](https://hub.docker.com/repository/docker/salonirara/pepstrmod2/general)
-
-
 📖 Please cite relevant content for complete details, including the algorithm behind the approach.
 
 ---
@@ -236,3 +233,5 @@ output/
 ---
 
 🚀 **Start predicting chemically modified peptides structures with PEPstrMOD2 today!**
+
+🔗 Can also be downloaded from Docker: [pepstrmod2](https://hub.docker.com/repository/docker/salonirara/pepstrmod2/general)

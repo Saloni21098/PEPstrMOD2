@@ -196,7 +196,7 @@ PEPstrMOD2 generates the following output files inside the specified output dire
 Example output structure:
 
 ```
-output/
+example_test/
 ├── before_simulation.zip
 ├── after_minimization.zip
 ├── after_simulation.zip

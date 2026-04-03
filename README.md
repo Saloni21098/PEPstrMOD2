@@ -188,29 +188,43 @@ Modified residues should be provided using MAP notation inside curly braces.
 
 PEPstrMOD2 generates the following output files inside the specified output directory:
 
-* Predicted peptide structures in PDB format
+* Predicted peptide structures by DL models in PDB format
 * Energy-minimized structures
 * Final simulated structures
-* Optional trajectory, clustering, and graph files (depending on selected arguments)
+* Optional trajectory, clustering, rmsd and energy graph files (depending on selected arguments)
 
 Example output structure:
 
-```text id="1FEV_A"
+```
 output/
 ├── before_simulation.zip
 ├── after_minimization.zip
 ├── after_simulation.zip
-├── before_simulation/1FEV_A_tleap.pdb
-├── after_minimization/1FEV_A_min.pdb
-├── after_simulation//1FEV_A_final.pdb
-└── 1FEV_A/
-    ├── 1FEV_A_pred.pdb
-    ├── 1FEV_A_clean.pdb
-    ├── 1FEV_A_modified.pdb
-    ├── 1FEV_A_tleap.pdb
+├── before_simulation  #Initial Structures
+    ├── Seq1_tleap.pdb
+    ├── Seq2_tleap.pdb
+├── after_minimization #Minimized Structures
+    ├── Seq1_min.pdb
+    ├── Seq2_min.pdb
+├── after_simulation   #Final Structures
+    ├── Seq1_final.pdb
+    ├── Seq2_final.pdb
+└── Seq1/
+    ├── Seq1_pred.pdb
+    ├── Seq1_clean.pdb
+    ├── Seq1_modified.pdb
+    ├── Seq1_tleap.pdb
     ....................
     ....................    
-    └── 1FEV_A_final.pdb
+    └── Seq1_final.pdb
+└── Seq2/
+    ├── Seq2_pred.pdb
+    ├── Seq2_clean.pdb
+    ├── Seq2_modified.pdb
+    ├── Seq2_tleap.pdb
+    ....................
+    ....................    
+    └── Seq2_final.pdb
 ```
 
 If no output directory is specified, all results are stored in the default folder:

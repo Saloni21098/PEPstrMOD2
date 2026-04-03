@@ -235,4 +235,4 @@ output/
 
 🚀 **Start predicting chemically modified peptides structures with PEPstrMOD2 today!**
 
-🔗 Also available in Docker: [pepstrmod2](https://hub.docker.com/repository/docker/salonirara/pepstrmod2/general)
+🔗 Also available in Docker: [PEPstrMOD2](https://hub.docker.com/repository/docker/salonirara/pepstrmod2/general)

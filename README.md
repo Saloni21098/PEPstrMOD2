@@ -178,7 +178,6 @@ PEPstrMOD2 supports the following input formats:
 ```text id="t5r9vm"
 >Seq1
 GA{d}CDEFGH
-
 >Seq2
 ACD{ptm:Beta}FGHIK
 ```

@@ -56,6 +56,7 @@ unzip colabfold_params.zip
 # ├── manual.pdb
 # ├── requirements.txt
 # └── requirements_macos.txt
+# └── README.md
 
 # 6. Make your working directory as src
 cd src
@@ -112,7 +113,7 @@ conda activate AmberTools25
 ---
 
 ## ⚠️ Important Note
-- Due to the large size of ambertools25, pmemd24 and colabfold_params, the directories have been compressed and uploaded in the Release assets of teh repository.
+- Due to the large size of ambertools25, pmemd24 and colabfold_params, the directories have been compressed and uploaded in the Release assets of the repository.
 - Download the **zip files** from [Release Page](https://github.com/raghavagps/PEPstrMOD2/releases/tag/v2.0) 
 - **Extract the files** before using the code.
 - Place the extracted files inside the PEPstrMOD2 directory.

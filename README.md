@@ -17,7 +17,7 @@ A computational framework for predicting and refining the **three-dimensional st
 
 ---
 ### 🖼️ PEPstrMOD2 Workflow Representation
-![PEPstrMOD2 Workflow](https://raw.githubusercontent.com/saloni21098/PEPstrMOD2/main/images/PEPstrMOD2_workflow.png)
+![PEPstrMOD2 Workflow](https://raw.githubusercontent.com/saloni21098/PEPstrMOD2/main/PEPstrMOD2_workflow.png)
 
 
 ## 🧪 Quick Start for Reproducibility

@@ -13,7 +13,7 @@ A computational framework for predicting and refining the **three-dimensional st
 ---
 
 ## 📚 Reference
-**Jain et al.** _PEPstrMOD2:Structure Prediction of Chemically Modified Peptides_ **#Coming Soon#**
+**Jain et al.** _PEPstrMOD2: Next-generation tertiary structure prediction of chemically modified and non-natural peptides_ **#Coming Soon#**
 
 ---
 ### 🖼️ PEPstrMOD2 Workflow Representation

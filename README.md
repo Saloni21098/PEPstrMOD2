@@ -46,7 +46,6 @@ unzip colabfold_params.zip
 # PEPstrMOD2/ 
 # ├── src/ 
 # ├── example/
-# ├── images/
 # ├── list_of_modified_residues
 # ├── ambertools25/ 
 # ├── pmemd24/ 
